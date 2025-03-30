@@ -8,19 +8,19 @@ The Intern Management System is a web-based platform designed to streamline the 
 - Mentor: Oversees assigned interns, reviews progress, and provides feedback.
 - Intern: Views assigned tasks, submits progress, and receives feedback.
 - Authentication: JWT-based authentication for secure access.
-- Intern Management :
+## Intern Management :
 - Add, update, or remove interns.
 - Assign interns to mentors.
 - Track attendance and performance.
-- Task & Project Management :
+## Task & Project Management :
 - Assign tasks to interns.
 - Track task status (Pending, In Progress, Completed).
 - Allow interns to submit progress updates.
-- Performance Tracking & Reports :
+## Performance Tracking & Reports :
 - Generate performance reports.
 - Track internship progress via dashboards.
 - Mentor feedback system.
-- Communication & Notifications :
+## Communication & Notifications :
 - Interns receive notifications for assigned tasks and deadlines.
 - Mentors get updates when interns submit work.
 - Email notifications for important updates.
