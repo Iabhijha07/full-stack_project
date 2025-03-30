@@ -3,7 +3,7 @@ Intern Management System
 The Intern Management System is a web-based platform designed to streamline the management of interns in an organization. It allows administrators, mentors, and interns to efficiently manage tasks, track progress, and improve communication.
 
 ## Project Features
-  User Roles & Authentication :
+- User Roles & Authentication :
   Admin: Manages interns, mentors, and tasks.
   Mentor: Oversees assigned interns, reviews progress, and provides feedback.
   Intern: Views assigned tasks, submits progress, and receives feedback.
