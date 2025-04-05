@@ -4,10 +4,10 @@ The Intern Management System is a web-based platform designed to streamline the 
 
 ## Project Features
 - User Roles & Authentication :
-  Admin:- Manages interns, mentors, and tasks.
-  Mentor:- Oversees assigned interns, reviews progress, and provides feedback.
-  Intern:- Views assigned tasks, submits progress, and receives feedback.
-  Authentication:- JWT-based authentication for secure access.
+  Admin: Manages interns, mentors, and tasks.
+  Mentor: Oversees assigned interns, reviews progress, and provides feedback.
+  Intern: Views assigned tasks, submits progress, and receives feedback.
+  Authentication: JWT-based authentication for secure access.
 - Intern Management :
   Add, update, or remove interns.
   Assign interns to mentors.
@@ -28,7 +28,7 @@ The Intern Management System is a web-based platform designed to streamline the 
 ## Key Technologies
 - Frontend :
   React.js (for dynamic UI)
-  Tailwind CSS / Bootstrap (for styling)
+  CSS / Bootstrap (for styling)
   Redux (for state management)
 - Backend :
   Node.js + Express.js (for handling requests)
